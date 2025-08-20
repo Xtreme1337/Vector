@@ -1,0 +1,78 @@
+*{
+    background-color:black;
+}
+
+.vectorText{
+    color:white;
+    text-align:center;
+}
+
+.vectorText2{
+    color:white;
+    text-align:center;
+}
+
+.vectorText3{
+    color:white;
+    text-align:center;
+}
+
+.vectorText4{
+    color:white;
+    text-align:center;
+}
+
+.vectorBlock{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:grey;
+    height:500px;
+    width:1920px
+
+}
+
+.vectorText5{
+    color:white;
+    text-align:center;
+}
+
+.htmlLogo{
+    height:200px;
+    width:200px;
+}
+
+.cssLogo{
+    height:200px;
+    width:200px;
+}
+
+.vectorText6{
+    color:white;
+    text-align:center;
+}
+
+.vectorBlock2{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:grey;
+    height:500px;
+    width:1920px;
+}
+
+.vectorText7{
+    color:white;
+    text-align:center;
+}
+
+.vscLogo{
+    height:200px;
+    width:200px;
+}
+
+.vectorText8{
+    color:white;
+    text-align:center;
+}
+
