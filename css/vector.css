@@ -52,6 +52,26 @@
     text-align:center;
 }
 
+.jsLogo{
+    width:25px;
+    height:25px;
+}
+
+.reactLogo{
+    width:25px;
+    height:25px;
+}
+
+.tsLogo{
+    width:25px;
+    height:25px;
+}
+
+.nodeLogo{
+    width:25px;
+    height:25px;
+}
+
 .vectorBlock2{
     display:flex;
     justify-content:center;
